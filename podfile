@@ -1,0 +1,27 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '11.0'
+# Comment this line if you're not using Swift and don't want to use dynamic frameworks
+use_frameworks!
+
+target 'SwiftTips' do
+
+pod 'SnapKit', '~> 5.0.1'
+pod 'Dollar', '~> 9.0.0'
+pod 'SwiftyJSON', '~> 4.0'
+pod 'Alamofire', '~> 5.2'
+
+pod 'DeviceKit', '~> 4.0'
+pod 'MonkeyKing', '~> 2.1.0'
+pod 'Whisper'
+
+end
+
+
+# pod 'RandomKit', '~> 3.0.0'
+
+# pod 'Moya', '~> 14.0'
+# pod 'DeviceKit', '~> 4.0'
+# pod 'ImageViewer'
+# pod 'Kingfisher', '~> 3.1.1'
+# pod 'MonkeyKing', '~> 2.1.0'
+# pod 'Kingfisher', '~> 3.1.1'

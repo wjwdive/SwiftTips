@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.4.2)
+  - DeviceKit (4.3.0)
+  - Dollar (9.0.0)
+  - MonkeyKing (2.1.0)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (4.3.0)
+  - Whisper (6.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - DeviceKit (~> 4.0)
+  - Dollar (~> 9.0.0)
+  - MonkeyKing (~> 2.1.0)
+  - SnapKit (~> 5.0.1)
+  - SwiftyJSON (~> 4.0)
+  - Whisper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DeviceKit
+    - Dollar
+    - MonkeyKing
+    - SnapKit
+    - SwiftyJSON
+    - Whisper
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  DeviceKit: 7decde449c308ac7e816e2184ded1c7c596fb885
+  Dollar: 2fc9bdeeb2d3ae1f251461803240d5c93829ee0c
+  MonkeyKing: 1656e3e01911b5f72f988d4496c1cc988d0c009c
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Whisper: 6869ae85284ae2ba0aa4c7d8a826be6436409fed
+
+PODFILE CHECKSUM: 69d5399f8b69cadf2ca558ee4b862fd70b66c671
+
+COCOAPODS: 1.10.1
